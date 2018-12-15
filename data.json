@@ -1,0 +1,33 @@
+{
+  "customers": [{
+      "id": "1",
+      "name": "Thierry Henry",
+      "email": "thierry@arsenal.dev",
+      "age": 40
+    },
+    {
+      "id": "2",
+      "name": "Dennis Bergamp",
+      "email": "dennis@arsenal.dev",
+      "age": 45
+    },
+    {
+      "id": "3",
+      "name": "Robert Pires",
+      "email": "robert@arsenal.dev",
+      "age": 42
+    },
+    {
+      "id": "4",
+      "name": "Patrick Vieira",
+      "email": "patrick@arsenal.dev",
+      "age": 40
+    },
+    {
+      "id": "5",
+      "name": "Frederick Ljundberg",
+      "email": "freddy@arsenal.dev",
+      "age": 43
+    }
+  ]
+}
