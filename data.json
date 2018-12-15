@@ -1,5 +1,6 @@
 {
-  "customers": [{
+  "customers": [
+    {
       "id": "1",
       "name": "Thierry Henry",
       "email": "thierry@arsenal.dev",
@@ -28,6 +29,12 @@
       "name": "Frederick Ljundberg",
       "email": "freddy@arsenal.dev",
       "age": 43
+    },
+    {
+      "name": "Kolo Toure",
+      "email": "kolo@arsenal.dev",
+      "age": 34,
+      "id": "GagR_Yo"
     }
   ]
 }
