@@ -42,7 +42,7 @@ const CustomerType = new GraphQLObjectType({
       type: GraphQLString
     },
     age: {
-      age: GraphQLInt
+      type: GraphQLInt
     }
   })
 });
@@ -58,7 +58,7 @@ const RootQuery = new GraphQLObjectType({
           type: GraphQLString
         }
       },
-      resolve(parentValue, args) {
+      resolve(parent, args) {
         for (let i = 0; i < customers.length; i++) {
           if (customers[i].id === args.id) {
             return customers[i];
