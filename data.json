@@ -8,7 +8,7 @@
     },
     {
       "id": "2",
-      "name": "Dennis Bergamp",
+      "name": "Flying Dutchman",
       "email": "dennis@arsenal.dev",
       "age": 45
     },
@@ -17,12 +17,6 @@
       "name": "Robert Pires",
       "email": "robert@arsenal.dev",
       "age": 42
-    },
-    {
-      "id": "4",
-      "name": "Patrick Vieira",
-      "email": "patrick@arsenal.dev",
-      "age": 40
     },
     {
       "id": "5",
